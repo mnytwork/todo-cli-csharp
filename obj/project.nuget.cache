@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "j6DxUPxJKIg=",
+  "success": true,
+  "projectFilePath": "/Users/mnyt/Downloads/Dot-net/Microsoft Backend Developer Course/ToDoList/ToDoList.csproj",
+  "expectedPackageFiles": [
+    "/Users/mnyt/.nuget/packages/pastel/7.0.1/pastel.7.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
